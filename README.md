@@ -92,7 +92,7 @@ This project is a **console-based scientific calculator** developed in **C++**, 
 ## 👨‍💻 Author
 
 * **Haasitha Kodali**
-  [Email](mailto:kodalihaasitha@gmail.com) | [LinkedIn](https://linkedin.com/in/KodaliHaasitha)
+  [Email](mailto:kodalihaasitha@gmail.com) 
 
 ---
 
