@@ -43,7 +43,7 @@ This project is a **console-based scientific calculator** developed in **C++**, 
    ```bash
    git clone https://github.com/your-username/scientific-calculator-cpp.git
    cd scientific-calculator-cpp
-````
+   ````
 
 2. Compile the code:
 
